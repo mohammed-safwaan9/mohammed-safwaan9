@@ -125,7 +125,6 @@ Java practice covering arrays, matrices, number problems, input handling, and pr
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammed-safwaan9/mohammed-safwaan9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammed-safwaan9/mohammed-safwaan9/output/github-snake.svg" />
   <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/mohammed-safwaan9/mohammed-safwaan9/output/github-snake-dark.svg" />
 </picture>
 
