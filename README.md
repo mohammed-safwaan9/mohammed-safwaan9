@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohammed--safwaan9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9)
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammed-safwaan9&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/mohammed-safwaan9)
-[![Followers](https://img.shields.io/github/followers/mohammed-safwaan9?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0d1117)](https://github.com/mohammed-safwaan9?tab=followers)
+[![Followers](https://img.shields.io/badge/FOLLOWERS-View_on_GitHub-7C3AED?style=for-the-badge&labelColor=0d1117)](https://github.com/mohammed-safwaan9?tab=followers)
 
 </div>
 
@@ -113,7 +113,7 @@ Java practice covering arrays, matrices, number problems, input handling, and pr
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=mohammed-safwaan9&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
+[![Contribution Activity](https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-View_on_GitHub-0A7B5B?style=for-the-badge&labelColor=0d1117)](https://github.com/mohammed-safwaan9?tab=overview)
 
 </div>
 
